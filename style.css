@@ -1,3 +1,7 @@
 body {
   background-color: green;
 }
+
+form input {
+  background-color: aliceblue;
+}
