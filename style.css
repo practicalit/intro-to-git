@@ -1,8 +1,12 @@
-body {
-  background-color: green;
-  font-family: 'Courier New', Courier, monospace;
+h3 {
+  display: flex;
+  justify-content: center;
+  color: blue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-form input {
-  background-color: aliceblue;
+.content {
+  padding: 20px;
+  color: brown;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
